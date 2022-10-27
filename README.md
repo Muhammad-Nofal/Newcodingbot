@@ -1,0 +1,2 @@
+# Newcodingbot
+my first repository
